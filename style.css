@@ -31,3 +31,11 @@ div {
   border-radius: 0;
   background-color: white;
 }
+
+.green {
+  background-color: rgb(55, 138, 34)
+}
+
+.pink {
+  background-color: rgb(167, 55, 116)
+}
